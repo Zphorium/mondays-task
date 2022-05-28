@@ -1,0 +1,24 @@
+﻿
+string generalvalueAzn = "Ümumi mebleğ (AZN)";
+int valueManat = 10000 ;
+
+string generalvalueUsd = "ABŞ dolları (USD)";
+float valueUsd =(float)(valueManat / 1.7);
+
+string generalvalueRub = "Rusiya rublu (RUB)";
+float valueRub = (float) (valueManat / 0.0265) ;
+
+string generalvalueEur = "Avro (EUR)";
+float valueEUR = (float)(valueManat / 1.8282);
+
+Console.WriteLine(generalvalueAzn);
+Console.WriteLine(valueManat);
+
+Console.WriteLine(generalvalueUsd);
+Console.WriteLine(valueUsd);
+
+Console.WriteLine(generalvalueRub);
+Console.WriteLine(valueRub);
+
+Console.WriteLine(generalvalueEur);
+Console.WriteLine(valueEUR);

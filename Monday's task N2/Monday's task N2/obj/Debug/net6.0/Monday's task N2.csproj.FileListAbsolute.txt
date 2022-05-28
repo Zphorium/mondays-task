@@ -1,0 +1,15 @@
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\bin\Debug\net6.0\Monday's task N2.exe
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\bin\Debug\net6.0\Monday's task N2.deps.json
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\bin\Debug\net6.0\Monday's task N2.runtimeconfig.json
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\bin\Debug\net6.0\Monday's task N2.dll
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\bin\Debug\net6.0\Monday's task N2.pdb
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\obj\Debug\net6.0\Monday's task N2.csproj.AssemblyReference.cache
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\obj\Debug\net6.0\Monday's task N2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\obj\Debug\net6.0\Monday's task N2.AssemblyInfoInputs.cache
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\obj\Debug\net6.0\Monday's task N2.AssemblyInfo.cs
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\obj\Debug\net6.0\Monday's task N2.csproj.CoreCompileInputs.cache
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\obj\Debug\net6.0\Monday's task N2.dll
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\obj\Debug\net6.0\refint\Monday's task N2.dll
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\obj\Debug\net6.0\Monday's task N2.pdb
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\obj\Debug\net6.0\Monday's task N2.genruntimeconfig.cache
+C:\Users\zulfu\OneDrive\Desktop\Tasklar\mondays-task\Monday's task N2\Monday's task N2\obj\Debug\net6.0\ref\Monday's task N2.dll
